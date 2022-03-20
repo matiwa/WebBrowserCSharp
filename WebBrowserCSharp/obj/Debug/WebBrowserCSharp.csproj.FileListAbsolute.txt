@@ -1,0 +1,9 @@
+C:\Users\matiwa\source\repos\WebBrowserCSharp\WebBrowserCSharp\bin\Debug\WebBrowserCSharp.exe
+C:\Users\matiwa\source\repos\WebBrowserCSharp\WebBrowserCSharp\bin\Debug\WebBrowserCSharp.pdb
+C:\Users\matiwa\source\repos\WebBrowserCSharp\WebBrowserCSharp\obj\Debug\WebBrowserCSharp.Form1.resources
+C:\Users\matiwa\source\repos\WebBrowserCSharp\WebBrowserCSharp\obj\Debug\WebBrowserCSharp.Properties.Resources.resources
+C:\Users\matiwa\source\repos\WebBrowserCSharp\WebBrowserCSharp\obj\Debug\WebBrowserCSharp.csproj.GenerateResource.cache
+C:\Users\matiwa\source\repos\WebBrowserCSharp\WebBrowserCSharp\obj\Debug\WebBrowserCSharp.csproj.CoreCompileInputs.cache
+C:\Users\matiwa\source\repos\WebBrowserCSharp\WebBrowserCSharp\obj\Debug\WebBrowserCSharp.exe
+C:\Users\matiwa\source\repos\WebBrowserCSharp\WebBrowserCSharp\obj\Debug\WebBrowserCSharp.pdb
+C:\Users\matiwa\source\repos\WebBrowserCSharp\WebBrowserCSharp\obj\Debug\WebBrowserCSharp.csprojAssemblyReference.cache
